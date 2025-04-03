@@ -2,6 +2,7 @@
 LDFLAGS=-lcurl
 LD=g++
 CC=g++
+TARGET=gsc
 
 all: level_client par_level_client
 
